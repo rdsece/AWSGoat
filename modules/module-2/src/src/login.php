@@ -63,8 +63,8 @@ if (isset($_POST['submit'])) {
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="CSS/loginstyle.css">
-	<link rel="icon" type="image/x-icon" href="./images/AWScloud.png">
-	<title>AWS GOAT V2 - Login</title>
+	<link rel="icon" type="image/x-icon" href="./images/AWScloud">
+	<title>AWS Login</title>
 </head>
 <body>
 	
@@ -84,9 +84,9 @@ if (isset($_POST['submit'])) {
 			</div>
 		</form>
 		<div style="text-align:center;">
-			<section>Made with &hearts; by INE</section></br>
+			<section>Made with &hearts;</section></br>
 				<div style="text-align:center;">
-					<img src="./images/ine-logo.png" height ="25" width="50">
+					<img src="./images/ine-logo" height ="25" width="50">
 				</div>
 		</div>
 		
